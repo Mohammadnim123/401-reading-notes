@@ -1,4 +1,5 @@
-Permissions
+# Permissions
+
 Authentication or identification by itself is not usually sufficient to gain access to information or code. For that, the entity requesting access must have authorization.
 
 — Apple Developer Documentation
